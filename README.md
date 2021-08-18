@@ -3,7 +3,7 @@
 
 ► Faço mods para ETS2/ATS;  
 (EN) *I make ETS2/ATS mods;*  
-<a href="https://steamcommunity.com/id/_bento/myworkshopfiles/">Oficina steam./Steam Workshop.</a>
+<a href="https://steamcommunity.com/id/_bento/myworkshopfiles/">Oficina steam/Steam Workshop.</a>  
 ► Apaixonado por FPS;  
 (EN) *Fps lover;*  
 ► Ajudo no possível;  
