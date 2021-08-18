@@ -11,7 +11,7 @@
 ► Críticas, dúvidas, elogios e sugestões são sempre bem vindos!  
 (EN) *Criticism, doubts, compliments and suggestions are always welcome!*  
 
-#### ► Pc specs  
+#### --> Pc specs <--  
 Case: Thermaltake Versa H15 Mini Tower;  
 Fan: 5 x Dex DX-12F 1100Rpm;  
 Power supply: Redragon RGPS 500W 80 Plus Bronze;  
