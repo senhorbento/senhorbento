@@ -1,8 +1,10 @@
-## Primeiramente, boa noite 👋
-### First of all, good night 👋
+## Primeiramente, boa noite 👋  
+## First of all, good night 👋
 
-#### Sou apenas um cara me descobrindo o mundo da programação :smile:
-##### I'm just a guy discovering the programing world :smile:
+#### Sou apenas um cara descobrindo o mundo da programação :smile:
+#### I'm just a guy discovering the programing world :smile:
+
+##
 
 <div align="center">
   <a href="https://github.com/senhorbento">
