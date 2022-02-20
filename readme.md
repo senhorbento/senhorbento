@@ -22,5 +22,4 @@
 💥Ram: 4 x 4GB SK Hynix DDR3 1333Mhz;  
 💥Graphics: Gigabyte Geforce GTX 1650 4GB GDDR6;  
 💥SSD: SanDisk 240GB R:530MB/s, R:440MB/s;  
-💥M2: KingDian 512GB R:2400MB/s, W:1700MB/s;  
-💥HD: Toshiba 500GB 5400Rpm 2,5".  
+💥M2: KingDian 512GB R:2400MB/s, W:1700MB/s;   
