@@ -1,10 +1,10 @@
-## Primeiramente, boa noite 👋  
-## First of all, good night 👋
+<h1> Primeiramente, boa noite 🌑 </h1>
+<h2> First of all, good night 🌑 </h2>
 
-#### Sou apenas um cara descobrindo o mundo da programação :smile:
-#### I'm just a guy discovering the programing world :smile:
+<h4> Sou apenas um cara descobrindo o mundo da programação 😄 </h4>
+<h4> I'm just a guy discovering the programing world 😄 </h4>
 
-##
+<h2></h2>
 
 <div align="center">
   <a href="https://github.com/senhorbento">
@@ -13,10 +13,10 @@
   </a>
 </div>
   
-##
+<h2></h2>
   
 <details>
-  <summary>-> Hobbies <-</summary>
+  <summary>Hobbies 🚚</summary>
 
 🚩 Faço mods para ETS2/ATS;  
 (EN) *I make ETS2/ATS mods;*  
@@ -31,7 +31,7 @@
 </details>
   
 <details>
-  <summary>--> Pc specs <--</summary>
+  <summary>Pc specs 🖥️</summary>
 
 💥Case: Thermaltake Versa H15 Mini Tower;  
 💥Fan: 5 x Dex DX-12F 1100Rpm;  
