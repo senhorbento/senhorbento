@@ -16,7 +16,7 @@
 <h2></h2>
   
 <details>
-  <summary>Hobbies 🚚</summary>
+  <summary>Curiosidades 🚚</summary>
 
 🚩 Faço mods para ETS2/ATS;  
 (EN) *I make ETS2/ATS mods;*  
