@@ -1,10 +1,8 @@
-<h1> Primeiramente, boa noite 🌑 </h1>
-<h2> First of all, good night 🌑 </h2>
+# Primeiramente, boa noite 🌑
+## First of all, good night 🌑
 
-<h4> Sou apenas um cara descobrindo o mundo da programação 😄 </h4>
-<h4> I'm just a guy discovering the programing world 😄 </h4>
-
-<h2></h2>
+#### Sou apenas um cara descobrindo o mundo da programação 😄
+#### I'm just a guy discovering the programing world 😄
 
 <div align="center">
   <a href="https://github.com/senhorbento">
@@ -12,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=compact&langs_count=7&theme=monokai"/>
   </a>
 </div>
-  
 <h2></h2>
   
 <details>
@@ -27,21 +24,18 @@
 (EN) *I help in somethings;*  
 🚩 Críticas, dúvidas, elogios e sugestões são sempre bem vindos!  
 (EN) *Criticism, doubts, compliments and suggestions are always welcome!* 
-    
 </details>
-  
 <details>
   <summary>Pc specs 🖥️</summary>
-
-💥Case: Thermaltake Versa H15 Mini Tower;  
+    
+💥Case: Pichau Kazan;  
 💥Fan: 5 x Dex DX-12F 1100Rpm;  
 💥Power supply: Redragon RGPS 500W 80 Plus Bronze;  
-💥Motherboard: Atermiter x79g v1.3;  
-💥Cpu: Intel® Xeon® E5-2630 v2 1.2~2.9GHz clock, 15MB memory cache;  
-💥Cpu Cooler: Cooler Master Hyper Tx3 Evo;  
-💥Ram: 4 x 4GB SK Hynix DDR3 1333Mhz;  
+💥Motherboard: Machinist Rs9;  
+💥Cpu: Intel® Xeon® E5-2630 v3 2.4~3.2GHz clock, 20 MB memory cache;  
+💥Cpu Cooler: Cooler Redragon Tyr;  
+💥Ram: 4 x 8GB Machinist DDR4 2666Mhz;  
 💥Graphics: Gigabyte Geforce GTX 1650 4GB GDDR6;  
 💥SSD: SanDisk 240GB R:530MB/s, R:440MB/s;  
-💥M2: KingDian 512GB R:2400MB/s, W:1700MB/s;   
-    
+💥M2: KingDian 512GB R:2400MB/s, W:1700MB/s;     
 </details>
