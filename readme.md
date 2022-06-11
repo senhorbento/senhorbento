@@ -8,11 +8,8 @@
   <a href="https://github.com/senhorbento">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=senhorbento&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/senhorbento">
-    <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=default&langs_count=10&theme=monokai"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=compact&langs_count=8&theme=monokai"/>
   </a>
 </div>
   
