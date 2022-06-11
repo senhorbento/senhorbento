@@ -4,18 +4,13 @@
 #### Sou apenas um cara descobrindo o mundo da programação 😄
 #### I'm just a guy discovering the programing world 😄
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/senhorbento">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=senhorbento&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=compact&langs_count=8&theme=monokai"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=senhorbento&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=compact&langs_count=8&theme=monokai"/>
   </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/senhorbento">
-    
-  </a>
-</div>
 
 <details>
   <summary>Curiosidades 🚚</summary>
