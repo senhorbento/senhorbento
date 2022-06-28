@@ -20,7 +20,7 @@
 🚩 Ajudo no possível;  
 (EN) *I help in somethings;*  
 🚩 Críticas, dúvidas, elogios e sugestões são sempre bem vindos!  
-(EN) *Criticism, doubts, compliments and suggestions are always welcome!* 
+(EN) *Criticism, doubts, compliments and suggestions are always welcome!*  
 🚩 Faço mods para ETS2/ATS;  
 (EN) *I make ETS2/ATS mods;*  
 
