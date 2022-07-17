@@ -13,16 +13,40 @@
 
 <p></p>
 
-**Curiosidades 🚚**
+<p> Possuo conhecimento em:</p>
+<div>
+<p>Desktop:</p>
+<ul>
+<li>C</li>
+<li>C++</li>
+<li>C#</li>
+<li>Java</li>
+</ul>
+</div>
 
-🚩 Apaixonado por FPS;  
-(EN) *Fps lover;*  
-🚩 Ajudo no possível;  
-(EN) *I help in somethings;*  
-🚩 Críticas, dúvidas, elogios e sugestões são sempre bem vindos!  
-(EN) *Criticism, doubts, compliments and suggestions are always welcome!*  
-🚩 Faço mods para ETS2/ATS;  
-(EN) *I make ETS2/ATS mods;*  
+<div>
+<p>Web:</p>
+<ul class="listaLinguagens">
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>NodeJS</li>
+<li>ASP.NET (MVC)</li>
+</ul>
+</div>
 
-<a href="https://steamcommunity.com/id/_bento/myworkshopfiles/">Oficina Steam</a>  
-<a href="https://steamcommunity.com/id/_bento/myworkshopfiles/">Steam Workshop</a>  
+<div>
+<p>Banco de dados:</p>
+<ul class="listaLinguagens">
+<li>MySQL</li>
+<li>MongoDB</li>
+</ul>
+</div>
+
+<div>
+<p>Embarcados:</p>
+<ul class="listaLinguagens">
+<li>Arduino</li>
+<li>Raspberry</li>
+</ul>
+</div>
