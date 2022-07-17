@@ -11,8 +11,6 @@
   </a>
 </div>
 
-<p></p>
-
 <p> Possuo conhecimento em:</p>
 <div>
 <p>Desktop:</p>
