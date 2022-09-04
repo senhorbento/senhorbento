@@ -1,8 +1,8 @@
 # Primeiramente, boa noite 🌑
 ## First of all, good night 🌑
 
-#### Sou apenas um cara descobrindo o mundo da programação 😄
-#### I'm just a guy discovering the programing world 😄
+#### Sou apenas um cara tentando ser um programador 😄
+#### I'm just a guy trying to be a developer 😄
 
 <div align="left">
   <a href="https://github.com/senhorbento">
@@ -11,40 +11,35 @@
   </a>
 </div>
 
-<p> Possuo conhecimento em:</p>
-<div>
-<p>Desktop:</p>
-<ul>
-<li>C</li>
-<li>C++</li>
-<li>C#</li>
-<li>Java</li>
-</ul>
-</div>
+### Contribuições para a comunidade / Contributions to the community:
 
-<div>
-<p>Web:</p>
-<ul class="listaLinguagens">
-<li>HTML</li>
-<li>CSS</li>
-<li>Javascript</li>
-<li>NodeJS</li>
-<li>ASP.NET (MVC)</li>
-</ul>
-</div>
+<details>
+  <summary>English</summary>
+    <p><a href="https://dev.to/_misterbento/basic-commands-mongodb-57pe" target="_blank" class="post_link">Basic commands MongoDB</a></p>
+    <p><a href="https://dev.to/_misterbento/github-tip-1-en-1moe" target="_blank" class="post_link">Githubs Tips</a></p>
+</details>
+<details>
+  <summary>Português</summary>
+  <p><a href="https://dev.to/_misterbento/comandos-basicos-mongodb-2o8o" target="_blank" class="post_link">Comandos básicos MongoDB</a></p>
+  <p><a href="https://dev.to/_misterbento/github-tip-1-43ke" target="_blank" class="post_link">Githubs Tips</a></p>
+  <p><a href="https://dev.to/_misterbento/markdown-tip-1-31kb" target="_blank" class="post_link">Markdown Tip</a></p>
+</details>
 
-<div>
-<p>Banco de dados:</p>
-<ul class="listaLinguagens">
-<li>MySQL</li>
-<li>MongoDB</li>
-</ul>
-</div>
 
-<div>
-<p>Embarcados:</p>
-<ul class="listaLinguagens">
-<li>Arduino</li>
-<li>Raspberry</li>
-</ul>
-</div>
+### Conhecimentos / Knowledge:
+
+<details>
+  <summary>Desenvolvimento / Development</summary>
+    <p>Desktop: C | C++ | C# | Java.</p>
+    <p>Web: HTML | CSS | JavaScript | NodeJS | GraphQL | ASP.NET.</p>
+</details>
+<details>
+  <summary>Banco de dados / Database</summary>
+    <p>SQL: MySQL.</p>
+    <p>NoSQL: MongoDB.</p>
+</details>
+<details>
+  <summary>Extras</summary>
+    <p>Sistemas embarcados / Embedded systems: Arduino | Raspberry.</p>
+    <p>Idiomas / Languages: Espanhol | Inglês | Português.</p>
+</details>  
