@@ -25,6 +25,17 @@
   <p><a href="https://dev.to/_misterbento/markdown-tip-1-31kb" target="_blank" class="post_link">Markdown Tip</a></p>
 </details>
 
+### Experiência de Trabalho / Work experience (Since 2022):
+<details>
+  <summary>Desenvolvimento / Development</summary>
+    <p>Desktop: .NET Framework 4.2+ (Windows Forms) </p>
+    <p>Web: HTML | CSS | JavaScript | TypeScript | ThreeJS | Angular | .NET Core 5,6,7,8 </p>
+</details>
+<details>
+  <summary>Banco de dados / Database</summary>
+    <p>SQL: SQLServer | SQLite</p>
+</details>
+
 
 ### Conhecimentos / Knowledge:
 
@@ -41,5 +52,5 @@
 <details>
   <summary>Extras</summary>
     <p>Sistemas embarcados / Embedded systems: Arduino | Raspberry.</p>
-    <p>Idiomas / Languages: Espanhol | Inglês | Português.</p>
+    <p>Idiomas / Languages: Espanhol (Basic) | Inglês (Advanced) | Português (Native).</p>
 </details>  
