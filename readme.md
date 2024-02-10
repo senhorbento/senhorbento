@@ -1,56 +1,28 @@
-# Primeiramente, boa noite 🌑
-## First of all, good night 🌑
+# Hello there! 👋
 
-#### Sou apenas um cara tentando ser um programador 😄
-#### I'm just a guy trying to be a developer 😄
+I'm Henrique Bento, also known as Bento. I'm currently pursuing my post-graduation degree in Software Engineering at PUC Rio, while also working as a Junior System Analyst at Alfa Laval.
 
-<div align="left">
-  <a href="https://github.com/senhorbento">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=senhorbento&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorbento&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
+## 🌐 Contributions to the Community 
 
-### Contribuições para a comunidade / Contributions to the community:
+### 📝Articles  
+  - Basic commands MongoDB [🇺🇸](https://dev.to/_misterbento/basic-commands-mongodb-57pe) [🇧🇷](https://dev.to/_misterbento/comandos-basicos-mongodb-2o8o)
+  - Github Tips: [🇺🇸](https://dev.to/_misterbento/github-tip-1-en-1moe) [🇧🇷](https://dev.to/_misterbento/github-tip-1-43ke)
+  - Markdown Tip: [🇧🇷](https://dev.to/_misterbento/markdown-tip-1-31kb)
 
-<details>
-  <summary>English</summary>
-    <p><a href="https://dev.to/_misterbento/basic-commands-mongodb-57pe" target="_blank" class="post_link">Basic commands MongoDB</a></p>
-    <p><a href="https://dev.to/_misterbento/github-tip-1-en-1moe" target="_blank" class="post_link">Githubs Tips</a></p>
-</details>
-<details>
-  <summary>Português</summary>
-  <p><a href="https://dev.to/_misterbento/comandos-basicos-mongodb-2o8o" target="_blank" class="post_link">Comandos básicos MongoDB</a></p>
-  <p><a href="https://dev.to/_misterbento/github-tip-1-43ke" target="_blank" class="post_link">Githubs Tips</a></p>
-  <p><a href="https://dev.to/_misterbento/markdown-tip-1-31kb" target="_blank" class="post_link">Markdown Tip</a></p>
-</details>
+ ## 💼 Knowledge (Working With Since 2022) 
+  
+- Desktop: C# (.NET Framework 4.2+) (Windows Forms)
+- Web: HTML | CSS | JavaScript | TypeScript | ThreeJS | Angular | C# (.NET Core 5.0+)
+- Database SQL: SQLServer | SQLite
+- Web Server: IIS
+- Version Control System: Git (Azure DevOps)
 
-### Experiência de Trabalho / Work experience (Since 2022):
-<details>
-  <summary>Desenvolvimento / Development</summary>
-    <p>Desktop: .NET Framework 4.2+ (Windows Forms) </p>
-    <p>Web: HTML | CSS | JavaScript | TypeScript | ThreeJS | Angular | .NET Core 5,6,7,8 </p>
-</details>
-<details>
-  <summary>Banco de dados / Database</summary>
-    <p>SQL: SQLServer | SQLite</p>
-</details>
+## 📚 Knowledge (Without Work Experience) 
 
-
-### Conhecimentos / Knowledge:
-
-<details>
-  <summary>Desenvolvimento / Development</summary>
-    <p>Desktop: C | C++ | C# | Java.</p>
-    <p>Web: HTML | CSS | JavaScript | NodeJS | GraphQL | ASP.NET.</p>
-</details>
-<details>
-  <summary>Banco de dados / Database</summary>
-    <p>SQL: MySQL.</p>
-    <p>NoSQL: MongoDB.</p>
-</details>
-<details>
-  <summary>Extras</summary>
-    <p>Sistemas embarcados / Embedded systems: Arduino | Raspberry.</p>
-    <p>Idiomas / Languages: Espanhol (Basic) | Inglês (Advanced) | Português (Native).</p>
-</details>  
+- Desktop: C | C++ | Java
+- Web: NodeJS | GraphQL
+- SQL: MySQL
+- NoSQL Database: MongoDB
+- Embedded systems: Arduino | Raspberry
+- Version Control System: Git (GitHub)
+- Languages: Español (Basic) | English (Advanced) | Português (Native)
