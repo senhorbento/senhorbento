@@ -13,7 +13,7 @@ I'm Henrique Bento, also known as Bento. I'm currently pursuing my post-graduati
   
 - Desktop: C# (.NET Framework 4.2+) (Windows Forms)
 - Web: HTML | CSS | JavaScript | TypeScript | ThreeJS | Angular | C# (.NET Core 5.0+)
-- Database SQL: SQLServer | SQLite
+- Database: SQLServer | SQLite
 - Web Server: IIS
 - Version Control System: Git (Azure DevOps)
 
